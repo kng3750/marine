@@ -11,7 +11,28 @@ let careers=store.get('mp-careers',seedCareers);
 let saved=store.get('mp-saved',[]);
 let compare=store.get('mp-compare',[]);
 let profile=store.get('mp-profile',{});
+let persistentReady=false;
 const main=$('#main');
+
+async function loadPersistentCareers(){
+  try{
+    const response=await fetch('/api/careers',{cache:'no-store'});
+    if(!response.ok)return;
+    const data=await response.json();
+    persistentReady=Boolean(data.persistent);
+    if(Array.isArray(data.careers)&&data.careers.length){careers=data.careers;store.set('mp-careers',careers)}
+  }catch(error){console.warn('[careers] 서버 데이터를 불러오지 못해 로컬 데이터를 사용합니다.',error)}
+}
+
+async function persistCareers(){
+  if(!persistentReady)throw new Error('영구 저장 환경변수가 아직 설정되지 않았습니다.');
+  let password=sessionStorage.getItem('mp-admin-password');
+  if(!password){password=prompt('영구 저장을 위한 관리자 비밀번호를 입력하세요.');if(!password)throw new Error('저장이 취소되었습니다.');sessionStorage.setItem('mp-admin-password',password)}
+  const response=await fetch('/api/careers',{method:'POST',headers:{'Content-Type':'application/json',Authorization:`Bearer ${password}`},body:JSON.stringify({careers})});
+  const data=await response.json().catch(()=>({}));
+  if(!response.ok){if(response.status===401)sessionStorage.removeItem('mp-admin-password');throw new Error(data.error||'영구 저장에 실패했습니다.')}
+  return data;
+}
 
 function field(id){return fields.find(f=>f.id===id)||fields[0]}
 function toast(msg){const el=$('#toast');el.textContent=msg;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),2200)}
@@ -63,12 +84,36 @@ function savedPage(){const rows=saved.map(id=>careers.find(c=>c.id===id)).filter
 function admin(){main.innerHTML=header('콘텐츠 관리자','진로 데이터를 수정하고 JSON으로 백업·복원합니다. 변경사항은 현재 브라우저에 저장됩니다.','LOCAL CONTENT STUDIO')+`<section class="section"><div class="notice">정적 사이트용 로컬 관리자입니다. 공용 서버 인증이나 팀 동기화 기능은 제공하지 않습니다. 운영 반영은 JSON을 내보내 저장소 데이터에 반영하세요.</div><div class="admin-toolbar" style="margin-top:25px"><button class="button" id="newCareer">새 진로 추가</button><button class="button secondary" id="exportData">JSON 내보내기</button><label class="button secondary">JSON 가져오기<input id="importData" type="file" accept="application/json" hidden></label><button class="button danger" id="resetData">기본 데이터 복원</button></div><div class="panel"><div class="filter-group"><label for="adminSearch">검색</label><input class="input" id="adminSearch" placeholder="직업명 검색"></div><div class="admin-list" id="adminList"></div></div></section><dialog class="modal" id="editor"><form method="dialog" class="modal-inner" id="editorForm"><h2>진로 편집</h2><input type="hidden" name="id"><div class="form-grid"><div><label>직업명</label><input class="input" name="name" required></div><div><label>영문명</label><input class="input" name="english"></div><div><label>분야</label><select class="input" name="field">${fields.map(f=>`<option value="${f.id}">${f.name}</option>`).join('')}</select></div><div><label>PDF 페이지</label><input class="input" name="page" type="number"></div><div><label>근무형태</label><input class="input" name="workType"></div><div><label>관련 면허</label><input class="input" name="license"></div><div><label>경력요건</label><input class="input" name="experience"></div><div><label>공식 URL</label><input class="input" name="officialUrl" type="url"></div></div><label>요약</label><textarea class="input" name="summary" rows="3" required></textarea><div class="modal-actions"><button class="button secondary" value="cancel">취소</button><button class="button" id="saveCareer" value="default">저장</button></div></form></dialog>`;renderAdmin();$('#adminSearch').oninput=renderAdmin;$('#newCareer').onclick=()=>openEditor();$('#exportData').onclick=exportData;$('#importData').onchange=importData;$('#resetData').onclick=()=>{if(confirm('관리자 수정 내용을 모두 지우고 기본 데이터로 복원할까요?')){careers=structuredClone(seedCareers);store.set('mp-careers',careers);renderAdmin();toast('기본 데이터로 복원했습니다.')}};$('#editorForm').onsubmit=e=>{if(e.submitter?.value==='cancel')return; e.preventDefault();saveEditor()}}
 function renderAdmin(){const list=$('#adminList');if(!list)return;const q=$('#adminSearch').value.toLowerCase();list.innerHTML=careers.filter(c=>c.name.toLowerCase().includes(q)).map(c=>`<div class="admin-row"><div><strong>${esc(c.name)}</strong><small> · ${field(c.field).name} · PDF ${c.page}쪽</small></div><div><button class="button small secondary" data-edit="${c.id}">편집</button> <button class="text-button" data-delete="${c.id}">삭제</button></div></div>`).join('')}
 function openEditor(id){const c=careers.find(x=>x.id===id)||{id:'',name:'',english:'',field:'shipping',page:40,workType:'육상',license:'직무별 상이',experience:'요건 확인',officialUrl:'',summary:''};const form=$('#editorForm');Object.entries(c).forEach(([k,v])=>{const el=form.elements[k];if(el&&!Array.isArray(v))el.value=v});$('#editor').showModal()}
-function saveEditor(){const data=Object.fromEntries(new FormData($('#editorForm')));let c=careers.find(x=>x.id===data.id);if(c)Object.assign(c,data,{page:+data.page,updatedAt:new Date().toISOString().slice(0,10)});else{c={...seedCareers[0],...data,id:`custom-${Date.now()}`,page:+data.page,duties:['주요 업무를 관리자에서 보완하세요.'],path:['요건 확인','준비','지원','성장'],updatedAt:new Date().toISOString().slice(0,10),source:`관리자 추가 · PDF ${data.page}쪽`};careers.push(c)}store.set('mp-careers',careers);$('#editor').close();renderAdmin();toast('진로 정보를 저장했습니다.')}
+async function saveEditor(){
+  const data=Object.fromEntries(new FormData($('#editorForm')));
+  const previous=structuredClone(careers);
+  let c=careers.find(x=>x.id===data.id);
+  if(c)Object.assign(c,data,{page:+data.page,updatedAt:new Date().toISOString().slice(0,10)});
+  else{c={...seedCareers[0],...data,id:`custom-${Date.now()}`,page:+data.page,duties:['주요 업무를 관리자에서 보완하세요.'],path:['요건 확인','준비','지원','성장'],updatedAt:new Date().toISOString().slice(0,10),source:`관리자 추가 · PDF ${data.page}쪽`};careers.push(c)}
+  try{
+    await persistCareers();
+    store.set('mp-careers',careers);
+    $('#editor').close();renderAdmin();toast('GitHub에 영구 저장했습니다.');
+  }catch(error){careers=previous;alert(error.message)}
+}
 function exportData(){const blob=new Blob([JSON.stringify(careers,null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=`mariner-path-careers-${new Date().toISOString().slice(0,10)}.json`;a.click();URL.revokeObjectURL(a.href)}
 async function importData(e){try{const data=JSON.parse(await e.target.files[0].text());if(!Array.isArray(data)||!data.every(x=>x.id&&x.name&&x.field))throw Error();careers=data;store.set('mp-careers',careers);renderAdmin();toast(`${data.length}개 항목을 가져왔습니다.`)}catch{alert('올바른 진로 JSON 파일이 아닙니다.')}}
 function notFound(){main.innerHTML=header('페이지를 찾을 수 없습니다','요청한 항로가 존재하지 않습니다.')+'<section class="section empty"><a class="button" href="#home">홈으로 이동</a></section>'}
 
 document.addEventListener('click',e=>{const saveBtn=e.target.closest('[data-save]');if(saveBtn){const id=saveBtn.dataset.save;saved=saved.includes(id)?saved.filter(x=>x!==id):[...saved,id];sync();toast(saved.includes(id)?'관심 진로에 저장했습니다.':'관심 진로에서 해제했습니다.');render()}const comp=e.target.closest('[data-compare]');if(comp){const id=comp.dataset.compare;if(compare.includes(id))compare=compare.filter(x=>x!==id);else if(compare.length<3)compare.push(id);else return toast('비교는 최대 3개까지 가능합니다.');sync();toast('비교 목록을 변경했습니다.');render()}const edit=e.target.closest('[data-edit]');if(edit)openEditor(edit.dataset.edit);const del=e.target.closest('[data-delete]');if(del&&confirm('이 진로를 삭제할까요?')){careers=careers.filter(c=>c.id!==del.dataset.delete);store.set('mp-careers',careers);renderAdmin()}const dr=e.target.closest('[data-route]');if(dr)go(dr.dataset.route)});
 $('#menuButton').onclick=()=>{const nav=$('#mainNav');nav.classList.toggle('open');$('#menuButton').setAttribute('aria-expanded',nav.classList.contains('open'))};
-function render(){const [r,id]=route().split('?')[0].split('/');({home,explore,roadmap,compare:comparePage,organizations,glossary:glossaryPage,saved:savedPage,admin}[r]||((r==='career')?()=>detail(id):notFound))();window.scrollTo(0,0);$('#mainNav').classList.remove('open')}
-window.addEventListener('hashchange',render);sync();render();
+function render(){
+  const [r,id]=route().split('?')[0].split('/');
+  ({home,explore,roadmap,compare:comparePage,organizations,glossary:glossaryPage,saved:savedPage,admin}[r]||((r==='career')?()=>detail(id):notFound))();
+  if(r==='admin'){
+    const notice=$('.notice');
+    notice.innerHTML=persistentReady
+      ? '<strong>영구 저장 활성화</strong> · 변경사항은 관리자 인증 후 GitHub 데이터 파일에 저장되며 모든 방문자에게 동일하게 적용됩니다.'
+      : '<strong>설정 필요</strong> · Vercel 환경변수 <code>GITHUB_TOKEN</code>과 <code>ADMIN_PASSWORD</code>를 설정해야 영구 저장할 수 있습니다.';
+  }
+  window.scrollTo(0,0);$('#mainNav').classList.remove('open');
+}
+window.addEventListener('hashchange',render);
+sync();
+await loadPersistentCareers();
+render();

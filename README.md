@@ -27,8 +27,17 @@ GitHub 저장소를 Vercel 프로젝트에 연결합니다. 프레임워크 프�
 
 브랜치와 Pull Request는 Preview Deployment로, `main` 브랜치는 Production으로 배포하는 방식을 권장합니다.
 
-## 관리자 기능의 범위
+## 관리자 영구 저장 설정
 
-현재 관리자는 정적 사이트에 맞춘 브라우저 로컬 관리 도구입니다. 변경사항은 같은 브라우저의 `localStorage`에 저장됩니다. 운영 데이터 반영은 관리자에서 JSON을 내보낸 뒤 `assets/js/data.js`의 데이터 또는 향후 API/CMS에 반영해야 합니다.
+관리자 변경사항은 Vercel Function을 통해 GitHub의 `data/careers.json`에 커밋됩니다. 따라서 새로고침, 다른 기기 및 새 배포 후에도 공식 URL을 포함한 변경사항이 유지됩니다.
 
-공용 로그인, 팀 동기화, 서버 데이터베이스가 필요해지면 인증과 API가 있는 별도 백엔드 또는 CMS로 확장해야 합니다.
+Vercel 프로젝트의 Settings > Environment Variables에 다음 값을 Production 범위로 설정하세요.
+
+- `GITHUB_TOKEN`: 해당 저장소 Contents 읽기·쓰기 권한을 가진 fine-grained GitHub token
+- `ADMIN_PASSWORD`: 관리자 저장 시 사용할 충분히 긴 비밀번호
+- `GITHUB_REPO`: 기본값 `kng3750/marine`
+- `GITHUB_BRANCH`: 기본값 `main`
+
+토큰과 비밀번호는 저장소에 커밋하지 마세요. 환경변수를 설정하거나 변경한 후에는 Vercel에서 다시 배포해야 합니다.
+
+관리자가 저장하면 GitHub 커밋과 연결된 Vercel 자동 배포가 발생할 수 있습니다. 쓰기 환경변수가 없으면 관리화면에 설정 필요 상태가 표시되고 저장을 차단합니다.
