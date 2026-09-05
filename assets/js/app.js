@@ -1,4 +1,4 @@
-import {fields, careers as seedCareers, glossary} from './data.js';
+import {fields, careers as seedCareers, glossary} from './data.js?v=20260905.2';
 
 const $ = (s,root=document)=>root.querySelector(s);
 const $$ = (s,root=document)=>[...root.querySelectorAll(s)];
