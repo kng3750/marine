@@ -1,0 +1,2074 @@
+[
+  {
+    "id": "career-001",
+    "field": "shipping",
+    "name": "해운회사",
+    "english": "Shipping Company",
+    "page": 41,
+    "summary": "운항·영업·해무·공무를 아우르는 해운 비즈니스의 중심",
+    "workType": "육상",
+    "license": "항해사, 기관사",
+    "experience": "승선경력 우대",
+    "duties": [
+      "운항·안전·기술 정보를 바탕으로 현장과 조직을 연결",
+      "관련 계약·점검·보고 업무 수행",
+      "국내외 이해관계자와 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해운회사 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 41쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-002",
+    "field": "shipping",
+    "name": "선박관리회사",
+    "english": "Ship Management Company",
+    "page": 43,
+    "summary": "선원·정비·안전·보험을 통합 관리하는 선박관리 전문 조직",
+    "workType": "혼합",
+    "license": "항해사, 기관사",
+    "experience": "승선경력 우대",
+    "duties": [
+      "운항·안전·기술 정보를 바탕으로 현장과 조직을 연결",
+      "관련 계약·점검·보고 업무 수행",
+      "국내외 이해관계자와 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "선박관리회사 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 43쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-003",
+    "field": "shipping",
+    "name": "도선사",
+    "english": "Maritime Pilot",
+    "page": 45,
+    "summary": "항만과 도선구에서 대형 선박의 안전한 입출항을 안내",
+    "workType": "현장",
+    "license": "1급 항해사",
+    "experience": "선장 경력 필요",
+    "duties": [
+      "운항·안전·기술 정보를 바탕으로 현장과 조직을 연결",
+      "관련 계약·점검·보고 업무 수행",
+      "국내외 이해관계자와 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "도선사 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "https://www.kmpilot.or.kr/",
+    "updatedAt": "2026-09-05",
+    "source": "Career Path Ⅱ, PDF 45쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-004",
+    "field": "shipping",
+    "name": "선박안전관리 대행업자",
+    "english": "Safety Management Provider",
+    "page": 47,
+    "summary": "선사의 안전관리체제 수립과 이행을 전문적으로 대행",
+    "workType": "육상",
+    "license": "항해사, 기관사",
+    "experience": "안전관리 경력",
+    "duties": [
+      "운항·안전·기술 정보를 바탕으로 현장과 조직을 연결",
+      "관련 계약·점검·보고 업무 수행",
+      "국내외 이해관계자와 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "선박안전관리 대행업자 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 47쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-005",
+    "field": "shipping",
+    "name": "용선·선박매매 중개인",
+    "english": "Chartering & S&P Broker",
+    "page": 49,
+    "summary": "선주와 화주·매수인을 연결하고 계약을 성사시키는 중개 전문가",
+    "workType": "육상",
+    "license": "해기사 우대",
+    "experience": "영어·상무 지식",
+    "duties": [
+      "운항·안전·기술 정보를 바탕으로 현장과 조직을 연결",
+      "관련 계약·점검·보고 업무 수행",
+      "국내외 이해관계자와 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "높음",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "용선·선박매매 중개인 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 49쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-006",
+    "field": "shipping",
+    "name": "운송주선인",
+    "english": "Freight Forwarder",
+    "page": 51,
+    "summary": "국제복합운송 과정과 서류·통관·운송수단을 조정",
+    "workType": "육상",
+    "license": "제한 없음",
+    "experience": "물류 자격 우대",
+    "duties": [
+      "운항·안전·기술 정보를 바탕으로 현장과 조직을 연결",
+      "관련 계약·점검·보고 업무 수행",
+      "국내외 이해관계자와 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "운송주선인 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 51쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-007",
+    "field": "shipping",
+    "name": "해운대리점 실무자",
+    "english": "Shipping Agent",
+    "page": 53,
+    "summary": "선박 입출항과 화물·선원·항만 서비스를 현지에서 대행",
+    "workType": "혼합",
+    "license": "해기사 우대",
+    "experience": "현장·영어 역량",
+    "duties": [
+      "운항·안전·기술 정보를 바탕으로 현장과 조직을 연결",
+      "관련 계약·점검·보고 업무 수행",
+      "국내외 이해관계자와 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해운대리점 실무자 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 53쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-008",
+    "field": "shipping",
+    "name": "해양기자재 기술직",
+    "english": "Marine Equipment Specialist",
+    "page": 55,
+    "summary": "항해·기관 장비의 공급·설치·수리와 기술영업 수행",
+    "workType": "현장",
+    "license": "항해사, 기관사",
+    "experience": "장비 실무 우대",
+    "duties": [
+      "운항·안전·기술 정보를 바탕으로 현장과 조직을 연결",
+      "관련 계약·점검·보고 업무 수행",
+      "국내외 이해관계자와 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해양기자재 기술직 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 55쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-009",
+    "field": "shipping",
+    "name": "위험물 안전관리자",
+    "english": "Dangerous Goods Safety Manager",
+    "page": 58,
+    "summary": "위험물 부두와 산적운반선의 취급·안전 절차를 관리",
+    "workType": "현장",
+    "license": "1~3급 해기사",
+    "experience": "위험물선 경력",
+    "duties": [
+      "운항·안전·기술 정보를 바탕으로 현장과 조직을 연결",
+      "관련 계약·점검·보고 업무 수행",
+      "국내외 이해관계자와 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "위험물 안전관리자 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 58쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-010",
+    "field": "shipping",
+    "name": "선박운항관리자",
+    "english": "Vessel Operations Manager",
+    "page": 60,
+    "summary": "연안여객선의 운항규정 준수와 입출항 안전을 지도·감독",
+    "workType": "혼합",
+    "license": "3급 이상 해기사",
+    "experience": "승선 3년 이상",
+    "duties": [
+      "운항·안전·기술 정보를 바탕으로 현장과 조직을 연결",
+      "관련 계약·점검·보고 업무 수행",
+      "국내외 이해관계자와 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "선박운항관리자 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 60쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-011",
+    "field": "shipping",
+    "name": "안전관리책임자",
+    "english": "Safety Manager",
+    "page": 62,
+    "summary": "내항여객선사의 운항관리규정과 안전운항 업무를 전담",
+    "workType": "육상",
+    "license": "4급 이상 해기사",
+    "experience": "관련 경력 필요",
+    "duties": [
+      "운항·안전·기술 정보를 바탕으로 현장과 조직을 연결",
+      "관련 계약·점검·보고 업무 수행",
+      "국내외 이해관계자와 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "안전관리책임자 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 62쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-012",
+    "field": "shipping",
+    "name": "선박보안책임자",
+    "english": "Ship Security Officer",
+    "page": 64,
+    "summary": "국제항해선박의 보안계획과 보안등급별 조치를 관리",
+    "workType": "혼합",
+    "license": "해기사 우대",
+    "experience": "보안교육 필요",
+    "duties": [
+      "운항·안전·기술 정보를 바탕으로 현장과 조직을 연결",
+      "관련 계약·점검·보고 업무 수행",
+      "국내외 이해관계자와 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "선박보안책임자 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 64쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-013",
+    "field": "shipping",
+    "name": "항만하역 운영자",
+    "english": "Terminal Operations Specialist",
+    "page": 66,
+    "summary": "선박 화물의 적양하 계획·통제·안전·장비를 운영",
+    "workType": "현장",
+    "license": "해기사 우대",
+    "experience": "항만 현장 경험",
+    "duties": [
+      "운항·안전·기술 정보를 바탕으로 현장과 조직을 연결",
+      "관련 계약·점검·보고 업무 수행",
+      "국내외 이해관계자와 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "항만하역 운영자 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 66쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-014",
+    "field": "shipping",
+    "name": "선박 급수·급량업",
+    "english": "Ship Supply Operator",
+    "page": 68,
+    "summary": "입항 선박에 청수·선식과 필수 물품을 공급",
+    "workType": "현장",
+    "license": "제한 없음",
+    "experience": "선박 이해 우대",
+    "duties": [
+      "운항·안전·기술 정보를 바탕으로 현장과 조직을 연결",
+      "관련 계약·점검·보고 업무 수행",
+      "국내외 이해관계자와 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "선박 급수·급량업 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 68쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-015",
+    "field": "shipping",
+    "name": "조선산업 기술직",
+    "english": "Shipbuilding Specialist",
+    "page": 69,
+    "summary": "선박 설계·생산·의장·시운전과 신조 프로젝트 수행",
+    "workType": "현장",
+    "license": "해기사, 조선기사",
+    "experience": "기술 전공 우대",
+    "duties": [
+      "운항·안전·기술 정보를 바탕으로 현장과 조직을 연결",
+      "관련 계약·점검·보고 업무 수행",
+      "국내외 이해관계자와 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "조선산업 기술직 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 69쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-016",
+    "field": "shipping",
+    "name": "조선기자재 전문가",
+    "english": "Marine Equipment Engineer",
+    "page": 71,
+    "summary": "선체·기관·의장·전기전자 기자재 개발과 기술지원",
+    "workType": "혼합",
+    "license": "해기사 우대",
+    "experience": "공학 지식",
+    "duties": [
+      "운항·안전·기술 정보를 바탕으로 현장과 조직을 연결",
+      "관련 계약·점검·보고 업무 수행",
+      "국내외 이해관계자와 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "조선기자재 전문가 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 71쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-017",
+    "field": "associations",
+    "name": "한국해기사협회",
+    "english": "Korean Maritime Officers Association",
+    "page": 75,
+    "summary": "해기사 권익·복지·교육과 정책 제안을 지원",
+    "workType": "육상",
+    "license": "해기사 우대",
+    "experience": "협회 채용 확인",
+    "duties": [
+      "회원 및 해기사 지원사업 운영",
+      "정책·산업 동향 조사와 대외협력",
+      "교육·복지·권익 사업 기획"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국해기사협회 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 75쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-018",
+    "field": "associations",
+    "name": "한국해운협회",
+    "english": "Korea Shipowners Association",
+    "page": 77,
+    "summary": "외항해운 정책과 회원 선사의 권익·국제활동을 지원",
+    "workType": "육상",
+    "license": "해기사 우대",
+    "experience": "해운 지식",
+    "duties": [
+      "회원 및 해기사 지원사업 운영",
+      "정책·산업 동향 조사와 대외협력",
+      "교육·복지·권익 사업 기획"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국해운협회 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 77쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-019",
+    "field": "associations",
+    "name": "한국해운조합",
+    "english": "Korea Shipping Association",
+    "page": 79,
+    "summary": "연안해운 사업자 지원·공제·교육·정책 업무 수행",
+    "workType": "육상",
+    "license": "해기사 우대",
+    "experience": "조합 채용 확인",
+    "duties": [
+      "회원 및 해기사 지원사업 운영",
+      "정책·산업 동향 조사와 대외협력",
+      "교육·복지·권익 사업 기획"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국해운조합 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 79쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-020",
+    "field": "associations",
+    "name": "한국선박관리산업협회",
+    "english": "KOSMA",
+    "page": 81,
+    "summary": "선박관리산업 정책·교육과 회원사 협력 지원",
+    "workType": "육상",
+    "license": "해기사 우대",
+    "experience": "선박관리 경험",
+    "duties": [
+      "회원 및 해기사 지원사업 운영",
+      "정책·산업 동향 조사와 대외협력",
+      "교육·복지·권익 사업 기획"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국선박관리산업협회 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 81쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-021",
+    "field": "associations",
+    "name": "수협중앙회",
+    "english": "National Federation of Fisheries Cooperatives",
+    "page": 83,
+    "summary": "어업인과 수산업을 위한 지도·경제·금융사업 수행",
+    "workType": "육상",
+    "license": "해기사 우대",
+    "experience": "수산업 이해",
+    "duties": [
+      "회원 및 해기사 지원사업 운영",
+      "정책·산업 동향 조사와 대외협력",
+      "교육·복지·권익 사업 기획"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "수협중앙회 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 83쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-022",
+    "field": "associations",
+    "name": "한국원양산업협회",
+    "english": "Korea Overseas Fisheries Association",
+    "page": 85,
+    "summary": "원양산업 정책·국제협력과 회원사 권익 지원",
+    "workType": "육상",
+    "license": "해기사 우대",
+    "experience": "원양 경험 우대",
+    "duties": [
+      "회원 및 해기사 지원사업 운영",
+      "정책·산업 동향 조사와 대외협력",
+      "교육·복지·권익 사업 기획"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국원양산업협회 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 85쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-023",
+    "field": "associations",
+    "name": "한국선원복지고용센터",
+    "english": "KOSWEC",
+    "page": 87,
+    "summary": "선원 고용·복지·상담·재취업을 종합 지원",
+    "workType": "육상",
+    "license": "해기사 우대",
+    "experience": "고용·복지 역량",
+    "duties": [
+      "회원 및 해기사 지원사업 운영",
+      "정책·산업 동향 조사와 대외협력",
+      "교육·복지·권익 사업 기획"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국선원복지고용센터 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 87쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-024",
+    "field": "associations",
+    "name": "전국해상선원노동조합연맹",
+    "english": "Federation of Korean Seafarers Unions",
+    "page": 89,
+    "summary": "선원의 노동권익과 근로조건 개선을 지원",
+    "workType": "육상",
+    "license": "승선경력 우대",
+    "experience": "노무 이해",
+    "duties": [
+      "회원 및 해기사 지원사업 운영",
+      "정책·산업 동향 조사와 대외협력",
+      "교육·복지·권익 사업 기획"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "전국해상선원노동조합연맹 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 89쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-025",
+    "field": "associations",
+    "name": "해양 국제기구 전문가",
+    "english": "Maritime International Organization Specialist",
+    "page": 91,
+    "summary": "국제 해양규범·정책·협력 업무를 수행",
+    "workType": "국제",
+    "license": "해기사 우대",
+    "experience": "고급 영어 필수",
+    "duties": [
+      "회원 및 해기사 지원사업 운영",
+      "정책·산업 동향 조사와 대외협력",
+      "교육·복지·권익 사업 기획"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "높음",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해양 국제기구 전문가 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 91쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-026",
+    "field": "government",
+    "name": "해양수산부 해양수산직",
+    "english": "Maritime Government Officer",
+    "page": 93,
+    "summary": "해운·항만·선원·안전 등 국가 해양정책을 집행",
+    "workType": "육상",
+    "license": "해기사 직류별 상이",
+    "experience": "공무원 채용",
+    "duties": [
+      "관련 법령과 절차에 따른 행정·감독",
+      "해양안전과 공공질서 확보",
+      "현장 점검과 보고서 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해양수산부 해양수산직 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 93쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-027",
+    "field": "government",
+    "name": "선박검사 공무원",
+    "english": "Government Ship Surveyor",
+    "page": 99,
+    "summary": "선박과 설비의 법정 안전기준 준수 여부를 검사",
+    "workType": "현장",
+    "license": "해기사·관련 자격",
+    "experience": "경력채용 확인",
+    "duties": [
+      "관련 법령과 절차에 따른 행정·감독",
+      "해양안전과 공공질서 확보",
+      "현장 점검과 보고서 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "선박검사 공무원 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 99쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-028",
+    "field": "government",
+    "name": "항만국통제관",
+    "english": "Port State Control Officer",
+    "page": 101,
+    "summary": "외국적 선박의 국제협약 준수와 안전상태를 점검",
+    "workType": "현장",
+    "license": "상급 해기사 우대",
+    "experience": "승선·검사 경력",
+    "duties": [
+      "관련 법령과 절차에 따른 행정·감독",
+      "해양안전과 공공질서 확보",
+      "현장 점검과 보고서 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "항만국통제관 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 101쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-029",
+    "field": "government",
+    "name": "선박교통관제사",
+    "english": "VTS Operator",
+    "page": 105,
+    "summary": "관제구역 선박을 감시하고 안전 운항정보를 제공",
+    "workType": "교대",
+    "license": "5급 이상 항해사 등",
+    "experience": "관제 자격 필요",
+    "duties": [
+      "관련 법령과 절차에 따른 행정·감독",
+      "해양안전과 공공질서 확보",
+      "현장 점검과 보고서 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "선박교통관제사 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 105쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-030",
+    "field": "government",
+    "name": "해양환경감시원",
+    "english": "Marine Environment Inspector",
+    "page": 107,
+    "summary": "해양오염원 조사·출입검사와 예방 지도를 수행",
+    "workType": "현장",
+    "license": "관련 면허·전공",
+    "experience": "공직 요건 확인",
+    "duties": [
+      "관련 법령과 절차에 따른 행정·감독",
+      "해양안전과 공공질서 확보",
+      "현장 점검과 보고서 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해양환경감시원 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 107쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-031",
+    "field": "government",
+    "name": "국립수산과학원 선박직",
+    "english": "NIFS Vessel Officer",
+    "page": 109,
+    "summary": "시험조사선을 운항하며 수산자원 조사·연구 지원",
+    "workType": "승선",
+    "license": "항해사, 기관사",
+    "experience": "공무원 채용",
+    "duties": [
+      "관련 법령과 절차에 따른 행정·감독",
+      "해양안전과 공공질서 확보",
+      "현장 점검과 보고서 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "국립수산과학원 선박직 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 109쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-032",
+    "field": "government",
+    "name": "국립해양조사원 선박직",
+    "english": "KHOA Vessel Officer",
+    "page": 111,
+    "summary": "수로·해저지형·해양관측을 위한 조사선을 운항",
+    "workType": "승선",
+    "license": "항해사, 기관사",
+    "experience": "공무원 채용",
+    "duties": [
+      "관련 법령과 절차에 따른 행정·감독",
+      "해양안전과 공공질서 확보",
+      "현장 점검과 보고서 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "국립해양조사원 선박직 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 111쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-033",
+    "field": "government",
+    "name": "국립해양측위정보원",
+    "english": "Maritime Positioning Officer",
+    "page": 113,
+    "summary": "위성·지상파 항법정보 시스템을 운영·관리",
+    "workType": "육상",
+    "license": "관련 전공·자격",
+    "experience": "공무원 채용",
+    "duties": [
+      "관련 법령과 절차에 따른 행정·감독",
+      "해양안전과 공공질서 확보",
+      "현장 점검과 보고서 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "국립해양측위정보원 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 113쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-034",
+    "field": "government",
+    "name": "어업관리단 선박직",
+    "english": "Fisheries Management Officer",
+    "page": 114,
+    "summary": "불법조업 감시와 어업질서·안전조업을 지도",
+    "workType": "승선",
+    "license": "항해사, 기관사",
+    "experience": "공무원 채용",
+    "duties": [
+      "관련 법령과 절차에 따른 행정·감독",
+      "해양안전과 공공질서 확보",
+      "현장 점검과 보고서 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "어업관리단 선박직 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 114쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-035",
+    "field": "government",
+    "name": "해양수산 교육공무원",
+    "english": "Maritime Training Officer",
+    "page": 116,
+    "summary": "공무원과 해양수산 인재의 직무교육을 기획·운영",
+    "workType": "육상",
+    "license": "관련 경력 우대",
+    "experience": "공무원 채용",
+    "duties": [
+      "관련 법령과 절차에 따른 행정·감독",
+      "해양안전과 공공질서 확보",
+      "현장 점검과 보고서 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해양수산 교육공무원 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 116쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-036",
+    "field": "government",
+    "name": "해양안전심판관·조사관",
+    "english": "Maritime Tribunal Officer",
+    "page": 117,
+    "summary": "해양사고 원인을 조사·심판하고 재발 방지에 기여",
+    "workType": "육상",
+    "license": "상급 해기사",
+    "experience": "고경력 필요",
+    "duties": [
+      "관련 법령과 절차에 따른 행정·감독",
+      "해양안전과 공공질서 확보",
+      "현장 점검과 보고서 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해양안전심판관·조사관 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 117쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-037",
+    "field": "government",
+    "name": "관세청 선박직",
+    "english": "Customs Vessel Officer",
+    "page": 120,
+    "summary": "세관선을 운항하며 밀수·불법반입 단속을 지원",
+    "workType": "승선",
+    "license": "1~6급 해기사",
+    "experience": "공무원 채용",
+    "duties": [
+      "관련 법령과 절차에 따른 행정·감독",
+      "해양안전과 공공질서 확보",
+      "현장 점검과 보고서 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "관세청 선박직 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 120쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-038",
+    "field": "government",
+    "name": "기상청 선박직",
+    "english": "Weather Vessel Officer",
+    "page": 122,
+    "summary": "해양기상 관측선을 운항하고 관측 업무 지원",
+    "workType": "승선",
+    "license": "6급 이상 항해사 등",
+    "experience": "공무원 채용",
+    "duties": [
+      "관련 법령과 절차에 따른 행정·감독",
+      "해양안전과 공공질서 확보",
+      "현장 점검과 보고서 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "기상청 선박직 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 122쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-039",
+    "field": "government",
+    "name": "지방자치단체 해양수산직",
+    "english": "Local Maritime Officer",
+    "page": 124,
+    "summary": "지방항만·연안·관공선과 해양정책 업무 수행",
+    "workType": "혼합",
+    "license": "1~6급 해기사",
+    "experience": "지방공무원 채용",
+    "duties": [
+      "관련 법령과 절차에 따른 행정·감독",
+      "해양안전과 공공질서 확보",
+      "현장 점검과 보고서 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "지방자치단체 해양수산직 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 124쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-040",
+    "field": "government",
+    "name": "대한민국 해군",
+    "english": "Republic of Korea Navy",
+    "page": 126,
+    "summary": "함정 운용과 해양방위·구조·교통로 보호 수행",
+    "workType": "승선",
+    "license": "직별 상이",
+    "experience": "군 채용 기준",
+    "duties": [
+      "관련 법령과 절차에 따른 행정·감독",
+      "해양안전과 공공질서 확보",
+      "현장 점검과 보고서 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "대한민국 해군 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 126쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-041",
+    "field": "government",
+    "name": "해양경찰",
+    "english": "Korea Coast Guard",
+    "page": 128,
+    "summary": "해상경비·구조·수사·오염방제와 안전관리 수행",
+    "workType": "승선",
+    "license": "5급 이상 해기사 등",
+    "experience": "공무원 채용",
+    "duties": [
+      "관련 법령과 절차에 따른 행정·감독",
+      "해양안전과 공공질서 확보",
+      "현장 점검과 보고서 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해양경찰 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 128쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-042",
+    "field": "public",
+    "name": "한국어촌어항공단 선박직",
+    "english": "FIPA Vessel Officer",
+    "page": 133,
+    "summary": "어항관리선 운항과 어항·연안 환경사업 지원",
+    "workType": "승선",
+    "license": "5급 이상 해기사",
+    "experience": "법정교육 필요",
+    "duties": [
+      "기관 고유의 공공사업 수행",
+      "안전·기술·운영 기준 관리",
+      "전문직과 행정직 간 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국어촌어항공단 선박직 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 133쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-043",
+    "field": "public",
+    "name": "한국해양교통안전공단",
+    "english": "KOMSA",
+    "page": 135,
+    "summary": "선박검사·운항관리·해양교통안전 사업 수행",
+    "workType": "혼합",
+    "license": "해기사·관련 자격",
+    "experience": "직렬별 상이",
+    "duties": [
+      "기관 고유의 공공사업 수행",
+      "안전·기술·운영 기준 관리",
+      "전문직과 행정직 간 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국해양교통안전공단 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 135쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-044",
+    "field": "public",
+    "name": "해양환경공단",
+    "english": "KOEM",
+    "page": 138,
+    "summary": "방제선·청항선 운항과 해양환경 보전사업 수행",
+    "workType": "혼합",
+    "license": "항해사, 기관사",
+    "experience": "위험물선 경력 우대",
+    "duties": [
+      "기관 고유의 공공사업 수행",
+      "안전·기술·운영 기준 관리",
+      "전문직과 행정직 간 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해양환경공단 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 138쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-045",
+    "field": "public",
+    "name": "항만공사",
+    "english": "Port Authority",
+    "page": 140,
+    "summary": "항만시설 개발·운영과 국제물류 경쟁력 강화",
+    "workType": "육상",
+    "license": "해기사 우대",
+    "experience": "NCS·기관별 채용",
+    "duties": [
+      "기관 고유의 공공사업 수행",
+      "안전·기술·운영 기준 관리",
+      "전문직과 행정직 간 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "항만공사 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 140쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-046",
+    "field": "public",
+    "name": "한국가스공사",
+    "english": "KOGAS",
+    "page": 142,
+    "summary": "LNG 인수기지·공급망과 에너지 시설 운영",
+    "workType": "현장",
+    "license": "기관사 등 우대",
+    "experience": "기술직 채용",
+    "duties": [
+      "기관 고유의 공공사업 수행",
+      "안전·기술·운영 기준 관리",
+      "전문직과 행정직 간 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국가스공사 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 142쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-047",
+    "field": "public",
+    "name": "한국석유공사",
+    "english": "KNOC",
+    "page": 143,
+    "summary": "석유 탐사·비축·수송시설과 해상기지 운영",
+    "workType": "현장",
+    "license": "해기사 우대",
+    "experience": "기술직 채용",
+    "duties": [
+      "기관 고유의 공공사업 수행",
+      "안전·기술·운영 기준 관리",
+      "전문직과 행정직 간 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국석유공사 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 143쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-048",
+    "field": "public",
+    "name": "한국수력원자력",
+    "english": "KHNP",
+    "page": 144,
+    "summary": "원자력·수력 발전설비의 운영과 기술 연구",
+    "workType": "현장",
+    "license": "기관계 경력 우대",
+    "experience": "기술직 채용",
+    "duties": [
+      "기관 고유의 공공사업 수행",
+      "안전·기술·운영 기준 관리",
+      "전문직과 행정직 간 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국수력원자력 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 144쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-049",
+    "field": "public",
+    "name": "한국수자원공사",
+    "english": "K-water",
+    "page": 146,
+    "summary": "수자원 시설과 선박·수질·신재생 사업 운영",
+    "workType": "현장",
+    "license": "해기사 우대",
+    "experience": "공기업 채용",
+    "duties": [
+      "기관 고유의 공공사업 수행",
+      "안전·기술·운영 기준 관리",
+      "전문직과 행정직 간 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국수자원공사 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 146쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-050",
+    "field": "public",
+    "name": "한국전력기술",
+    "english": "KEPCO E&C",
+    "page": 147,
+    "summary": "발전소 종합설계와 해양에너지 기술지원",
+    "workType": "육상",
+    "license": "기관계 경력 우대",
+    "experience": "엔지니어 채용",
+    "duties": [
+      "기관 고유의 공공사업 수행",
+      "안전·기술·운영 기준 관리",
+      "전문직과 행정직 간 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국전력기술 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 147쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-051",
+    "field": "public",
+    "name": "한전KPS",
+    "english": "KEPCO KPS",
+    "page": 149,
+    "summary": "발전·산업설비 진단·정비·성능개선 수행",
+    "workType": "현장",
+    "license": "기관사 경력 우대",
+    "experience": "전문경력 채용",
+    "duties": [
+      "기관 고유의 공공사업 수행",
+      "안전·기술·운영 기준 관리",
+      "전문직과 행정직 간 협업"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한전KPS 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 149쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-052",
+    "field": "education",
+    "name": "해양·수산계 고등학교 교사",
+    "english": "Maritime High School Teacher",
+    "page": 153,
+    "summary": "학생의 해기 전공교육과 생활·진로지도를 담당",
+    "workType": "육상",
+    "license": "교원자격·해기사 우대",
+    "experience": "교원 임용",
+    "duties": [
+      "교육·연구 계획 수립과 수행",
+      "전문 지식의 분석·전달",
+      "성과보고서와 연구자료 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해양·수산계 고등학교 교사 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 153쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-053",
+    "field": "education",
+    "name": "해양·수산계 대학교 교수",
+    "english": "Maritime University Professor",
+    "page": 155,
+    "summary": "해양 전공 교육과 학술·산학 연구를 수행",
+    "workType": "육상",
+    "license": "석·박사",
+    "experience": "연구실적 필요",
+    "duties": [
+      "교육·연구 계획 수립과 수행",
+      "전문 지식의 분석·전달",
+      "성과보고서와 연구자료 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해양·수산계 대학교 교수 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 155쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-054",
+    "field": "education",
+    "name": "한국해양수산연수원 교수·교관",
+    "english": "KIMFT Instructor",
+    "page": 157,
+    "summary": "해기사·선원·해양플랜트 안전교육과 시험 업무 수행",
+    "workType": "혼합",
+    "license": "해기사·승선경력 우대",
+    "experience": "교육 역량",
+    "duties": [
+      "교육·연구 계획 수립과 수행",
+      "전문 지식의 분석·전달",
+      "성과보고서와 연구자료 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국해양수산연수원 교수·교관 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 157쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-055",
+    "field": "education",
+    "name": "한국기계연구원 연구직",
+    "english": "KIMM Researcher",
+    "page": 159,
+    "summary": "에너지·기계시스템과 해양플랜트 기술 연구",
+    "workType": "육상",
+    "license": "관련 석·박사",
+    "experience": "연구직 채용",
+    "duties": [
+      "교육·연구 계획 수립과 수행",
+      "전문 지식의 분석·전달",
+      "성과보고서와 연구자료 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국기계연구원 연구직 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 159쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-056",
+    "field": "education",
+    "name": "한국해양과학기술원",
+    "english": "KIOST Researcher",
+    "page": 160,
+    "summary": "해양과학 연구와 연구선·극지·해양기술 사업 수행",
+    "workType": "혼합",
+    "license": "관련 전공·해기사",
+    "experience": "직무별 상이",
+    "duties": [
+      "교육·연구 계획 수립과 수행",
+      "전문 지식의 분석·전달",
+      "성과보고서와 연구자료 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국해양과학기술원 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 160쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-057",
+    "field": "education",
+    "name": "한국해양수산개발원",
+    "english": "KMI Researcher",
+    "page": 162,
+    "summary": "해운·항만·수산·해양정책을 조사·분석",
+    "workType": "육상",
+    "license": "관련 석·박사 우대",
+    "experience": "연구직 채용",
+    "duties": [
+      "교육·연구 계획 수립과 수행",
+      "전문 지식의 분석·전달",
+      "성과보고서와 연구자료 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국해양수산개발원 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 162쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-058",
+    "field": "education",
+    "name": "해양수산과학기술진흥원",
+    "english": "KIMST",
+    "page": 164,
+    "summary": "해양수산 R&D 기획·평가와 기업·창업 지원",
+    "workType": "육상",
+    "license": "관련 전공",
+    "experience": "공공기관 채용",
+    "duties": [
+      "교육·연구 계획 수립과 수행",
+      "전문 지식의 분석·전달",
+      "성과보고서와 연구자료 작성"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해양수산과학기술진흥원 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 164쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-059",
+    "field": "inspection",
+    "name": "검수사",
+    "english": "Tallyman",
+    "page": 167,
+    "summary": "수출입 화물의 개수와 상태를 확인·증명",
+    "workType": "현장",
+    "license": "검수사 자격",
+    "experience": "국가자격 시험",
+    "duties": [
+      "기준에 따른 현장 조사·검사",
+      "객관적인 기록과 증명서 작성",
+      "결함·위험요소 분석과 개선 권고"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "검수사 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 167쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-060",
+    "field": "inspection",
+    "name": "검량사",
+    "english": "Measurer",
+    "page": 169,
+    "summary": "선적화물의 용적·중량·상태를 공정하게 측정·증명",
+    "workType": "현장",
+    "license": "검량사 자격",
+    "experience": "국가자격 시험",
+    "duties": [
+      "기준에 따른 현장 조사·검사",
+      "객관적인 기록과 증명서 작성",
+      "결함·위험요소 분석과 개선 권고"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "검량사 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 169쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-061",
+    "field": "inspection",
+    "name": "감정사",
+    "english": "Marine Surveyor",
+    "page": 171,
+    "summary": "선박·화물 사고의 원인·손상·손해를 조사·평가",
+    "workType": "현장",
+    "license": "감정사 자격",
+    "experience": "해기경력 우대",
+    "duties": [
+      "기준에 따른 현장 조사·검사",
+      "객관적인 기록과 증명서 작성",
+      "결함·위험요소 분석과 개선 권고"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "감정사 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 171쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-062",
+    "field": "inspection",
+    "name": "한국선급 검사원",
+    "english": "KR Surveyor",
+    "page": 173,
+    "summary": "선박·해양설비의 도면·건조·정기검사 수행",
+    "workType": "혼합",
+    "license": "해기사·공학 전공",
+    "experience": "관련 경력 필요",
+    "duties": [
+      "기준에 따른 현장 조사·검사",
+      "객관적인 기록과 증명서 작성",
+      "결함·위험요소 분석과 개선 권고"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국선급 검사원 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 173쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-063",
+    "field": "inspection",
+    "name": "외국선급 검사원",
+    "english": "IACS Class Surveyor",
+    "page": 176,
+    "summary": "국제 선급 규칙에 따른 선박검사와 기술심사 수행",
+    "workType": "국제",
+    "license": "3급 이상 해기사 등",
+    "experience": "영어·승선경력",
+    "duties": [
+      "기준에 따른 현장 조사·검사",
+      "객관적인 기록과 증명서 작성",
+      "결함·위험요소 분석과 개선 권고"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "높음",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "외국선급 검사원 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 176쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-064",
+    "field": "inspection",
+    "name": "해사위험물 검사원",
+    "english": "Dangerous Goods Surveyor",
+    "page": 179,
+    "summary": "선박운송 위험물의 포장·수납·적재와 교육을 검사",
+    "workType": "현장",
+    "license": "관련 전공·자격",
+    "experience": "검사원 채용",
+    "duties": [
+      "기준에 따른 현장 조사·검사",
+      "객관적인 기록과 증명서 작성",
+      "결함·위험요소 분석과 개선 권고"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해사위험물 검사원 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 179쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-065",
+    "field": "inspection",
+    "name": "Oil Major 검사관",
+    "english": "Oil Major Inspector",
+    "page": 181,
+    "summary": "유조선의 OCIMF 기준 안전·오염방지 상태를 심사",
+    "workType": "국제",
+    "license": "상급 해기사",
+    "experience": "탱커 경력·영어",
+    "duties": [
+      "기준에 따른 현장 조사·검사",
+      "객관적인 기록과 증명서 작성",
+      "결함·위험요소 분석과 개선 권고"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "높음",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "Oil Major 검사관 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 181쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-066",
+    "field": "law",
+    "name": "해상 손해사정사",
+    "english": "Marine Loss Adjuster",
+    "page": 185,
+    "summary": "해상보험사고의 손해액과 보험금을 조사·산정",
+    "workType": "육상",
+    "license": "재물손해사정사",
+    "experience": "시험·영어성적",
+    "duties": [
+      "사건·시장·계약 자료 분석",
+      "전문 보고서와 의견서 작성",
+      "고객·기관과의 협상 및 자문"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해상 손해사정사 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 185쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-067",
+    "field": "law",
+    "name": "손해사정 보조인",
+    "english": "Loss Adjuster Assistant",
+    "page": 187,
+    "summary": "손해사실 확인과 보험금 사정 실무를 지원",
+    "workType": "육상",
+    "license": "해기사 우대",
+    "experience": "등록 요건 확인",
+    "duties": [
+      "사건·시장·계약 자료 분석",
+      "전문 보고서와 의견서 작성",
+      "고객·기관과의 협상 및 자문"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "손해사정 보조인 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 187쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-068",
+    "field": "law",
+    "name": "해상 전문 변호사",
+    "english": "Maritime Lawyer",
+    "page": 189,
+    "summary": "해양사고·운송계약·보험 분쟁의 법률자문과 소송 수행",
+    "workType": "육상",
+    "license": "변호사",
+    "experience": "로스쿨·변호사시험",
+    "duties": [
+      "사건·시장·계약 자료 분석",
+      "전문 보고서와 의견서 작성",
+      "고객·기관과의 협상 및 자문"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해상 전문 변호사 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 189쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-069",
+    "field": "law",
+    "name": "해상 법률사무원",
+    "english": "Maritime Legal Clerk",
+    "page": 192,
+    "summary": "해상사건 자료조사·서면·절차 등 법률사무 지원",
+    "workType": "육상",
+    "license": "제한 없음",
+    "experience": "해기·법률 지식",
+    "duties": [
+      "사건·시장·계약 자료 분석",
+      "전문 보고서와 의견서 작성",
+      "고객·기관과의 협상 및 자문"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "해상 법률사무원 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 192쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-070",
+    "field": "law",
+    "name": "심판변론인",
+    "english": "Maritime Tribunal Counsel",
+    "page": 194,
+    "summary": "해양사고 심판에서 관련자의 권익을 대리·변론",
+    "workType": "육상",
+    "license": "법정 자격요건",
+    "experience": "상급 경력 유리",
+    "duties": [
+      "사건·시장·계약 자료 분석",
+      "전문 보고서와 의견서 작성",
+      "고객·기관과의 협상 및 자문"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "심판변론인 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 194쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-071",
+    "field": "law",
+    "name": "관세사",
+    "english": "Customs Broker",
+    "page": 196,
+    "summary": "수출입 통관·세액·관세 행정쟁송을 대리",
+    "workType": "육상",
+    "license": "관세사",
+    "experience": "국가자격 시험",
+    "duties": [
+      "사건·시장·계약 자료 분석",
+      "전문 보고서와 의견서 작성",
+      "고객·기관과의 협상 및 자문"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "관세사 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 196쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-072",
+    "field": "law",
+    "name": "선박금융 전문가",
+    "english": "Ship Finance Specialist",
+    "page": 198,
+    "summary": "선박 건조·도입을 위한 투자·대출·펀드를 구조화",
+    "workType": "육상",
+    "license": "제한 없음",
+    "experience": "금융·영어 전문성",
+    "duties": [
+      "사건·시장·계약 자료 분석",
+      "전문 보고서와 의견서 작성",
+      "고객·기관과의 협상 및 자문"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "높음",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "선박금융 전문가 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 198쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-073",
+    "field": "law",
+    "name": "한국선주상호보험",
+    "english": "Korea P&I Club",
+    "page": 200,
+    "summary": "선주의 배상책임보험 인수·클레임·손해방지 지원",
+    "workType": "육상",
+    "license": "해기사 우대",
+    "experience": "보험·영어 역량",
+    "duties": [
+      "사건·시장·계약 자료 분석",
+      "전문 보고서와 의견서 작성",
+      "고객·기관과의 협상 및 자문"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국선주상호보험 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 200쪽",
+    "status": "원문 기반·최신 확인 필요"
+  },
+  {
+    "id": "career-074",
+    "field": "law",
+    "name": "한국해양진흥공사",
+    "english": "KOBC",
+    "page": 202,
+    "summary": "선박·항만 투자·보증과 해운산업 금융지원 수행",
+    "workType": "육상",
+    "license": "직무별 상이",
+    "experience": "NCS·전문역량",
+    "duties": [
+      "사건·시장·계약 자료 분석",
+      "전문 보고서와 의견서 작성",
+      "고객·기관과의 협상 및 자문"
+    ],
+    "education": "관련 전공과 직무별 교육·자격을 확인하세요.",
+    "englishLevel": "직무별 상이",
+    "path": [
+      "해양계 전공 또는 관련 기초역량 확보",
+      "해기사 면허·승선경력 또는 직무 자격 준비",
+      "한국해양진흥공사 채용·시험 요건 확인",
+      "실무경력 축적 및 전문분야 확장"
+    ],
+    "officialUrl": "",
+    "updatedAt": "2026-09-03",
+    "source": "Career Path Ⅱ, PDF 202쪽",
+    "status": "원문 기반·최신 확인 필요"
+  }
+]
