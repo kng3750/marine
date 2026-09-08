@@ -1433,7 +1433,7 @@
     "name": "해양·수산계 고등학교 교사",
     "english": "Maritime High School Teacher",
     "page": 153,
-    "summary": "학생의 해기 전공교육과 생활·진로지도를 담당",
+    "summary": "학생의 해기 전공교육과 생활·진로지도를 담당\n인천해사고, 부산해사고",
     "workType": "육상",
     "license": "교원자격·해기사 우대",
     "experience": "교원 임용",
@@ -1450,8 +1450,8 @@
       "해양·수산계 고등학교 교사 채용·시험 요건 확인",
       "실무경력 축적 및 전문분야 확장"
     ],
-    "officialUrl": "",
-    "updatedAt": "2026-09-03",
+    "officialUrl": "https://inm.icehs.kr/main.do",
+    "updatedAt": "2026-09-08",
     "source": "Career Path Ⅱ, PDF 153쪽",
     "status": "원문 기반·최신 확인 필요"
   },
